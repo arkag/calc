@@ -15,6 +15,14 @@ Example:
 | `^hello world^` | Undefined symbol hello |
 | `^sin(1)^`      | 0.8414709848078965     |
 
+## To-do
+
+* [x] Publish initial plugin
+* [ ] Set up unit tests
+* [ ] Set up CI/CD using above unit tests
+* [ ] ???
+* [ ] Profit
+
 ## Credits
 
 1. Takuya Matsuyama, developer of [Inkdrop](https://inkdrop.app)
