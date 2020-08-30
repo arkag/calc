@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle inkdrop-calc",
+        "command": "inkdrop-calc:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "inkdrop-calc",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "inkdrop-calc:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
