@@ -2,8 +2,8 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle inkdrop-calc",
-        "command": "inkdrop-calc:toggle"
+        "label": "Toggle positive signs",
+        "command": "calc:toggle-positives"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Plugins",
       "submenu": [
         {
-          "label": "inkdrop-calc",
+          "label": "calc",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "inkdrop-calc:toggle"
+              "label": "Toggle positive signs",
+              "command": "calc:toggle-positives"
             }
           ]
         }
